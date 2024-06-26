@@ -14,7 +14,7 @@ Aplicação web para registrar entrada de carros.
 
 1. Clone o repositório:
 
-    git clone 
+    git clone https://github.com/Litlledark/Projeto_Carros
   
 
 2. Crie e ative um ambiente virtual:
